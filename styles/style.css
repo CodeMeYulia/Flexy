@@ -22,9 +22,9 @@
     width: 80vw;
     justify-content: center;
     flex-wrap: wrap;
-    flex-basis: 70vw;
+    /* flex-basis: 70vw;
     flex-shrink: 1;
-    box-sizing: border-box;
+    box-sizing: border-box; */
     align-content: space-between;
     align-items: center;
 }
